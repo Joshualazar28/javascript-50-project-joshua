@@ -1,6 +1,6 @@
 # 50 Projects in 50 Days - HTML/CSS and JavaScript
 
-|  #  | Project                                                                                                                                                                                      |
+|  #  | Project                                                                                                                                                                                      
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- 
 | 01  | [Expanding Cards]               
 | 02  | [Progress Steps]          
@@ -15,7 +15,7 @@
 | 11  | [Event Keycodes]              
 | 12  | [Faq Collapse]                 
 | 13  | [Random Choice Picker]       
-14    | [Animated Navigation]        
+  14  | [Animated Navigation]        
 | 15  | [Incrementing Counter]       
 | 16  | [Drink Water]            
 | 17  | [Movie App]                  
